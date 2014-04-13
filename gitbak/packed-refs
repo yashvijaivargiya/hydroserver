@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled 
+6842bc45515c8f647c3750d4e3cdde9952ee245a refs/remotes/origin/finland
+00ebd328b85615741868ad0078c6f6e29051fd4c refs/remotes/origin/idah2o
+33720f6f081a623622f0f3ac13d6ecda58166dd3 refs/remotes/origin/international
+ee1187f771a7749ca2d76e420dd100d0f6ee30ce refs/remotes/origin/master
+61cca993f923309bd59dd1f07704fb90135dcae5 refs/remotes/origin/oop
+98ef893f80f9dacf544b287a122693c52deb8cdd refs/remotes/origin/rizts
+08af62455eeb035532da63649eb232173d6ceeea refs/remotes/origin/services
+66c3a25da52a5e45c54f1657d2cd4c943f7c75ef refs/remotes/origin/wfs
+d532bc2a03fd251ffd1f6f7ea6626b4dd569a543 refs/remotes/origin/worldwater
